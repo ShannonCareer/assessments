@@ -1,0 +1,7 @@
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\obj\Debug\0.arrays.csprojAssemblyReference.cache
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\obj\Debug\0.arrays.csproj.CoreCompileInputs.cache
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\bin\Debug\0.arrays.exe.config
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\bin\Debug\0.arrays.exe
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\bin\Debug\0.arrays.pdb
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\obj\Debug\0.arrays.exe
+C:\Users\CCA002\OneDrive\Business\Career\STEM\Tech\Coding\InnovateMS\MS Coding Academy\Assessments\programming_Jan2019\0.arrays\0.arrays\obj\Debug\0.arrays.pdb
