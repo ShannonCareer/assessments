@@ -11,37 +11,38 @@ namespace _0.arrays
         static void Main(string[] args)
         {
             int[]nums = {1,0,1,0,0,1,1};
+            Console.Write("Initial Array : ");
+            Console.WriteLine(String.Join(" ", nums));
             
-            for(int x = 0; x < nums.Length; x++){
-                if(x >= ){
-                    Swap(nums,);
-                }//end if
-            }//end for
-
-            PrintArray(nums);
+            BubbleSort(nums);
 
             Console.ReadKey();
         }//end main
 
-         #region SwapFunction
-        private static void Swap(int[] array,int pos1,int pos2){ 
-            int holder = 0;
-            holder = pos1; 
-            pos1 = pos2;
-            pos2 = holder;
-            return;
-
-        }//end swap function
-        #endregion SwapFunction
-        #region PrintArry
-        static void PrintArray(int[]temp)
+         #region BubbleSort 
+        static void BubbleSort(int[] array)
         {
-            for (int index = 0; index < temp.Length; index++)
+            for (int i = 0; i < array.Length; i++) //iterates through array
             {
-                Console.Write(temp[index] + " "); // The " " creates a space in console display
-            }
-        }//end PRINTarray Function
-        #endregion PrintArry
+              for (int j = 0; j < array.Length - i - 1; j++)
+              {
+                if (array[j] > array[j + 1]) //if statement (array[0] > array[1])
+                {
+                  int temp = array[j]; //{Exchange function}
+                  array[j] = array[j + 1];
+                  array[j + 1] = temp;
+                }//end if
+
+              }//end for-loop j
+
+              // Print array after every pass
+              Console.Write("After pass " + i + "  : ");
+
+              //Printing array after pass
+              Console.WriteLine(String.Join(" ", array));
+            }//end for-loop i
+        }//end bubble sort ()
+        #endregion 
 
     }//end class
 
